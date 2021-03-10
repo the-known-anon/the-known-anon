@@ -30,7 +30,7 @@ https://medium.com/@lcs2019018
 
 
 ### 📫 How to reach me?
-If you would like to know more about me go here: [LinkedIn](https://www.linkedin.com/in/apoorva-335889194/).
+If you would like to know more about me go here: [LinkedIn](https://www.linkedin.com/in/apoorva-sinha-335889194/).
 
 
 
