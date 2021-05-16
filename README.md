@@ -18,7 +18,7 @@ She/Her
 
 - ✔️I'm a fast learner and I believe in out-of-box ideas (no normies, please :D)Currently, I am looking for internships and research projects in the field of Computer science and engineering.
 
-- ✔️ I am currently a member at the ML-wing of the Tech-Club at my college, 'Axios' and also a lead at E-cell, IIIT-Lucknow. I also am a member at Google DSC, IIIT Lucknow.
+- ✔️ I am currently a lead at E-cell, IIIT-Lucknow. I also am a member at Google DSC, IIIT Lucknow.
 
 
 
