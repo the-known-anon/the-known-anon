@@ -1,11 +1,8 @@
 # Hey there!~
 Welcome to my profile, I hope you have a nice stay  :D
-I have experience coding in C++/c,python, HTML/CSS, Javascript, PHP, SQL. 
+I have experience coding in C++/c,Python, HTML/CSS, Javascript, PHP, SQL. 
 
-Machine Learning has always piqued my interest.It seems so fascinating to know that a machine can learn just like a human.With Python being lingua franca for Machine
-Learning,I have made myself well versed with Python.Along with that, I have done 3 out of 5 courses of “Deep Learning specialization” by “deeplearning.ai(Andrew Ng)” on
-Coursera and also to make myself familiar with Tensorflow,I have completed the “Intro to TensorFlow” by Google Cloud. Well, I believe that,just learning and understanding the
-concepts of ML is not enough, one needs to know how to develop and train models as well.
+I enjoy participating in hackathons and have won some so far. 
 
 Check out my profile at devpost : https://devpost.com/apoorva7sinha
 
